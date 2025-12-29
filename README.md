@@ -29,15 +29,16 @@ I'm a **Cloud** & **DevOps Engineer** from 🇮🇳 India, with **4.7+ years** o
   <img src="https://logo.svgcdn.com/devicon/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"height="40" alt="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="40" alt="GitHub"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="ansible" width="40" height="40"/>
 </p>
 
 ### **Scripting**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gnubash.svg" width="40" height="40" alt="Bash"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" width="40" height="40" alt="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
 ### **Stacks/Technology Deployed**
