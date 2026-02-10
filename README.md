@@ -50,6 +50,25 @@ I'm a **Cloud** & **DevOps Engineer** from 🇮🇳 India, with **4.7+ years** o
 
 ---
 
+## 🎥 DevOps Portfolio Video
+
+[![Watch the video](https://img.youtube.com/vi/REEhum3Sx38/maxresdefault.jpg)](https://youtu.be/REEhum3Sx38?si=Q-dvn9CDzaPOCkKS)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Multi-tier App with GitHub Actions
+[https://github.com/Ajaz3800/multi-tier-app-github-action](https://github.com/Ajaz3800/multi-tier-app-github-action)
+
+🔹 Multi-tier Infrastructure with Terraform
+[https://github.com/Ajaz3800/multi-tier-app-terraform](https://github.com/Ajaz3800/multi-tier-app-terraform)
+
+🔹 Local Production Simulation Stack
+[https://github.com/Ajaz3800/Multi-tier-web-app-stack-local](https://github.com/Ajaz3800/Multi-tier-web-app-stack-local)
+
+---
+
 <!-- ## 🚀 Featured Projects -->
 
 ## 📊 GitHub Stats
@@ -85,7 +104,7 @@ I'm a **Cloud** & **DevOps Engineer** from 🇮🇳 India, with **4.7+ years** o
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikh-muhammad-ajaz)
 [![Email](https://img.shields.io/badge/Email-shaikhajaz38000@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhajaz38000@gmail.com)
-
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@devopswithajaz)
 </div>
 
 ---
