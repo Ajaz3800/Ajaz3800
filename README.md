@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Shaikh Muhammad Ajaz  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00C4FF&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;SRE+and+Automation+Mindset;Expert+in+Linux%2C+Cloud%2C+Networking;CI%2FCD+Pipelines+%7C+Automation+%7C+GitOps;4.7%2B+Years+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00C4FF&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;DevSecOps+%7C+Security+Automation;SRE+and+Automation+Mindset;Expert+in+Linux%2C+Cloud%2C+Networking;CI%2FCD+Pipelines+%7C+Automation+%7C+GitOps;4.7%2B+Years+Experience)](https://git.io/typing-svg)
+
 
 </div>
 
@@ -10,13 +11,17 @@
 
 ## 🚀 About Me
 
-I'm a **Cloud** & **DevOps Engineer** from 🇮🇳 India, with **4.7+ years** of professional experience in both onsite and remote environments, Expert in **Linux, Networking, DevOps, and Cloud Engineering**. I'm passionate about building **production-ready applications** and scalable cloud infrastructure with automation and best practices.
+I'm a **Cloud, DevOps Engineer and DevSecOps Engineer** from 🇮🇳 India, with **4.7+ years of professional experience** working in both onsite and remote environments. 
 
-- 🔍 Looking for my next role as a **Cloud / DevOps Engineer**
-- 🚀 building projects with **Kubernetes, ArgoCD, Docker, Terraform, and AWS**
-- 🌱 Learning more about **platform engineering, observability, and GitOps**
-- 🤝 Happy to collaborate on **DevOps automation, CI/CD, and cloud migration projects**
-- 💬 I can help with **Linux, Networking, Cloud Architecture, and DevOps tooling**
+I specialize in **Linux, Cloud Infrastructure, DevOps automation, and container platforms**, and I enjoy building **secure, scalable, and production-ready systems** using modern DevOps and DevSecOps practices.
+
+- 🔍 Looking for my next role as a **Cloud / DevOps / DevSecOps Engineer**
+- 🚀 Building projects with **Kubernetes, Docker, ArgoCD, Terraform, and AWS**
+- 🔐 Implementing **DevSecOps security practices** using **Trivy, SBOM, Cosign, Kyverno, and Falco**
+- 🌱 Currently learning more about **Platform Engineering, Observability, and GitOps**
+- 🤝 Happy to collaborate on **DevOps automation, CI/CD pipelines, and cloud migration projects**
+- 💬 I can help with **Linux, Networking, Cloud Architecture, DevOps, and DevSecOps tooling**
+
 
 ---
 
@@ -35,12 +40,27 @@ I'm a **Cloud** & **DevOps Engineer** from 🇮🇳 India, with **4.7+ years** o
   <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="ansible" width="40" height="40"/>
 </p>
 
+---
+
+### 🔐 DevSecOps & Security Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" alt="Trivy" width="40" height="40"/>
+  <img src="https://kyverno.io/assets/images/kyverno-logo.svg" alt="Kyverno" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/falco/icon/color/falco-icon-color.svg" alt="Falco" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cosign.svg" alt="Cosign" width="40" height="40"/>
+</p>
+
+SAST | DAST | SBOM | Container Security | Image Signing | Runtime Security | Kubernetes Security | Policy Enforcement
+
+---
+
 ### **Scripting**
 <p align="left">
   <img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" width="40" height="40" alt="Bash"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
+---
 ### **Stacks/Technology Deployed**
 - MERN
 - MEAN
@@ -57,6 +77,12 @@ I'm a **Cloud** & **DevOps Engineer** from 🇮🇳 India, with **4.7+ years** o
 ---
 
 ## 🚀 Featured Projects
+
+🔹 Ansible Wordpress Deployment
+[https://github.com/Ajaz3800/ansible-wordpress-deployment.git](https://github.com/Ajaz3800/ansible-wordpress-deployment.git)
+
+🔹 Magento 2 Vagrant Debian 12 Stack
+[https://github.com/Ajaz3800/magento2-vagrant-debian12-stack](https://github.com/Ajaz3800/magento2-vagrant-debian12-stack)
 
 🔹 Multi-tier App with GitHub Actions
 [https://github.com/Ajaz3800/multi-tier-app-github-action](https://github.com/Ajaz3800/multi-tier-app-github-action)
@@ -91,12 +117,12 @@ I'm a **Cloud** & **DevOps Engineer** from 🇮🇳 India, with **4.7+ years** o
 
 ---
 
-<!-- ## 📈 Activity Graph
+## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaz3800&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</div> -->
+</div>
 
-<!-- --- -->
+---
 
 ## 🌐 Connect With Me
 
@@ -105,6 +131,12 @@ I'm a **Cloud** & **DevOps Engineer** from 🇮🇳 India, with **4.7+ years** o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikh-muhammad-ajaz)
 [![Email](https://img.shields.io/badge/Email-shaikhajaz38000@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhajaz38000@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@devopswithajaz)
+</div>
+
+<div align="center">
+
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/muhammadajaz)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Order%20Now-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/ajazshaikh3800)
 </div>
 
 ---
