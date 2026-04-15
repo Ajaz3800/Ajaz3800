@@ -28,7 +28,7 @@ I specialize in **Linux, Cloud Infrastructure, DevOps automation, and container 
 ## 🛠️ Tech Stack & Skills
 
 ### **Cloud & DevOps Tools**
-<p align="left">
+<div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://logo.svgcdn.com/devicon/digitalocean-original-wordmark.svg" alt="DigitalOcean" width="40" height="40"/>
   <img src="https://logo.svgcdn.com/devicon/docker-original.svg" alt="Docker" width="40" height="40"/>
@@ -38,27 +38,27 @@ I specialize in **Linux, Cloud Infrastructure, DevOps automation, and container 
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="ansible" width="40" height="40"/>
-</p>
+</div>
 
 ---
 
 ### 🔐 DevSecOps & Security Tools
-<p align="left">
+<div align="left">
   <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" alt="Trivy" width="40" height="40"/>
   <img src="https://kyverno.io/assets/images/kyverno-logo.svg" alt="Kyverno" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/falco/icon/color/falco-icon-color.svg" alt="Falco" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cosign.svg" alt="Cosign" width="40" height="40"/>
-</p>
+</div>
 
 SAST | DAST | SBOM | Container Security | Image Signing | Runtime Security | Kubernetes Security | Policy Enforcement
 
 ---
 
 ### **Scripting**
-<p align="left">
+<div align="left">
   <img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" width="40" height="40" alt="Bash"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+</div>
 
 ---
 ### **Stacks/Technology Deployed**
