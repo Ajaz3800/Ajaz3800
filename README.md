@@ -29,25 +29,27 @@ I specialize in **Linux, Cloud Infrastructure, DevOps automation, and container 
 
 ### **Cloud & DevOps Tools**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"/>
-  <img src="https://logo.svgcdn.com/devicon/digitalocean-original-wordmark.svg" alt="DigitalOcean" width="40"/>
-  <img src="https://logo.svgcdn.com/devicon/docker-original.svg" alt="Docker" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="ansible" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" title="AWS"/>
+  <img src="https://logo.svgcdn.com/devicon/digitalocean-original-wordmark.svg" alt="DigitalOcean" width="40" title="DigitalOcean"/>
+  <img src="https://logo.svgcdn.com/devicon/docker-original.svg" alt="Docker" width="40" title="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" title="Kubernetes"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" title="Jenkins"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" title="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" title="Terraform"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" title="Ansible"/>
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" title="ArgoCD"/>
+  <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="Harbor" width="40" title="Harbor"/>
 </p>
 
 ---
 
 ### 🔐 DevSecOps & Security Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" alt="Trivy" width="40"/>
-  <img src="https://kyverno.io/assets/images/kyverno-logo.svg" alt="Kyverno" width="40"/>
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/falco/icon/color/falco-icon-color.svg" alt="Falco" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cosign.svg" alt="Cosign" width="40"/>
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" alt="Trivy" width="40" title="Trivy" style="filter: invert(1);"/>
+  <img src="https://kyverno.io/assets/images/kyverno-logo.svg" alt="Kyverno" width="40" title="Kyverno"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/falco/icon/color/falco-icon-color.svg" alt="Falco" width="40" title="Falco"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cosign.svg" alt="Cosign" width="40" title="Cosign"/>
+  <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="Hashicorp Vault" width="40" title="HashiCorp Vault" style="filter: invert(1);"/>
 </p>
 
 SAST | DAST | SBOM | Container Security | Image Signing | Runtime Security | Kubernetes Security | Policy Enforcement
@@ -56,8 +58,8 @@ SAST | DAST | SBOM | Container Security | Image Signing | Runtime Security | Kub
 
 ### **Scripting**
 <p align="left">
-  <img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" width="40" alt="Bash"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+  <img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" width="40" alt="Bash" title="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" title="Python"/>
 </p>
 
 ---
