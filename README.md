@@ -29,9 +29,7 @@ I specialize in **Linux, Cloud Infrastructure, DevOps automation, and container 
 
 ### **Cloud & DevOps Tools**
 <p align="left">
-  <span style="display:inline-flex; align-items:center; justify-content:center; width:52px; height:52px; background:#ffffff; border-radius:50%;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" title="AWS"/>
-  </span>
   <img src="https://logo.svgcdn.com/devicon/digitalocean-original-wordmark.svg" alt="DigitalOcean" width="40" title="DigitalOcean"/>
   <img src="https://logo.svgcdn.com/devicon/docker-original.svg" alt="Docker" width="40" title="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" title="Kubernetes"/>
@@ -47,15 +45,11 @@ I specialize in **Linux, Cloud Infrastructure, DevOps automation, and container 
 
 ### 🔐 DevSecOps & Security Tools
 <p align="left">
-  <span style="display:inline-flex; align-items:center; justify-content:center; width:52px; height:52px; background:#ffffff; border-radius:50%;">
   <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" alt="Trivy" width="40" title="Trivy"/>
-  </span>
   <img src="https://kyverno.io/assets/images/kyverno-logo.svg" alt="Kyverno" width="40" title="Kyverno"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/falco/icon/color/falco-icon-color.svg" alt="Falco" width="40" title="Falco"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cosign.svg" alt="Cosign" width="40" title="Cosign"/>
-  <span style="display:inline-flex; align-items:center; justify-content:center; width:52px; height:52px; background:#ffffff; border-radius:50%;">
-  <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="Hashicorp Vault" width="40" title="HashiCorp Vault"/>
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-vault.svg" alt="Hashicorp Vault" width="40" title="HashiCorp Vault"/>
 </p>
 
 SAST | DAST | SBOM | Container Security | Image Signing | Runtime Security | Kubernetes Security | Policy Enforcement
@@ -64,9 +58,7 @@ SAST | DAST | SBOM | Container Security | Image Signing | Runtime Security | Kub
 
 ### **Scripting**
 <p align="left">
-  <span style="display:inline-flex; align-items:center; justify-content:center; width:52px; height:52px; background:#000000; border-radius:50%;">
   <img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" width="40" alt="Bash" title="Bash"/>
-  </span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" title="Python"/>
 </p>
 
