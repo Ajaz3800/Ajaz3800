@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shaikh Muhammad Ajaz  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00C4FF&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;DevSecOps+%7C+Security+Automation;SRE+and+Automation+Mindset;Expert+in+Linux%2C+Cloud%2C+Networking;CI%2FCD+Pipelines+%7C+Automation+%7C+GitOps;4.7%2B+Years+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00C4FF&center=true&vCenter=true&width=1000&lines=Cloud+%7C+DevOps+%7C+DevSecOps+Engineer;Kubernetes+%7C+GitOps+%7C+Platform+Engineering;ArgoCD+%7C+Kyverno+%7C+Falco+%7C+Vault;CI%2FCD+Pipelines+%7C+Supply+Chain+Security;Kubernetes+Security+%7C+Cloud+Native+Security;Docker+%7C+Terraform+%7C+AWS+%7C+Linux;Observability+%7C+Prometheus+%7C+Grafana;4.7%2B+Years+Experience)](https://git.io/typing-svg)
 
 
 </div>
@@ -11,16 +11,28 @@
 
 ## 🚀 About Me
 
-I'm a **Cloud, DevOps Engineer and DevSecOps Engineer** from 🇮🇳 India, with **4.7+ years of professional experience** working in both onsite and remote environments. 
+I'm a **Cloud, DevOps, and DevSecOps Engineer** from 🇮🇳 India with **4.7+ years of professional experience** designing, automating, and securing modern infrastructure platforms.
 
-I specialize in **Linux, Cloud Infrastructure, DevOps automation, and container platforms**, and I enjoy building **secure, scalable, and production-ready systems** using modern DevOps and DevSecOps practices.
+I specialize in:
 
-- 🔍 Looking for my next role as a **Cloud / DevOps / DevSecOps Engineer**
-- 🚀 Building projects with **Kubernetes, Docker, ArgoCD, Terraform, and AWS**
-- 🔐 Implementing **DevSecOps security practices** using **Trivy, SBOM, Cosign, Kyverno, and Falco**
-- 🌱 Currently learning more about **Platform Engineering, Observability, and GitOps**
-- 🤝 Happy to collaborate on **DevOps automation, CI/CD pipelines, and cloud migration projects**
-- 💬 I can help with **Linux, Networking, Cloud Architecture, DevOps, and DevSecOps tooling**
+- Kubernetes & Cloud Native Platforms
+- GitOps & Platform Engineering
+- DevSecOps & Supply Chain Security
+- CI/CD Automation
+- Infrastructure as Code
+- Linux & Networking
+
+Recently, I built an enterprise-style Kubernetes DevSecOps platform implementing:
+
+- GitOps with ArgoCD
+- Progressive Delivery with Argo Rollouts
+- Supply Chain Security using Trivy, SBOM, and Cosign
+- Kubernetes Policy Enforcement using Kyverno
+- Runtime Security using Falco
+- Vault + External Secrets Operator integration
+- Observability using Prometheus & Grafana
+
+I enjoy building secure, scalable, automated, and production-ready infrastructure systems using modern DevOps practices.
 
 
 ---
@@ -63,14 +75,6 @@ SAST | DAST | SBOM | Container Security | Image Signing | Runtime Security | Kub
 </p>
 
 ---
-### **Stacks/Technology Deployed**
-- MERN
-- MEAN
-- Magento
-- Laravel
-- WordPress
-
----
 
 ## 🎥 DevOps Portfolio Video
 
@@ -78,22 +82,62 @@ SAST | DAST | SBOM | Container Security | Image Signing | Runtime Security | Kub
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured DevSecOps & Kubernetes Projects
 
-🔹 Ansible Wordpress Deployment
-[https://github.com/Ajaz3800/ansible-wordpress-deployment.git](https://github.com/Ajaz3800/ansible-wordpress-deployment.git)
+## 🔹 Enterprise DevSecOps GitOps Platform
+Enterprise-grade Kubernetes platform implementing GitOps, policy enforcement, supply chain security, observability, and runtime security.
 
-🔹 Magento 2 Vagrant Debian 12 Stack
-[https://github.com/Ajaz3800/magento2-vagrant-debian12-stack](https://github.com/Ajaz3800/magento2-vagrant-debian12-stack)
+🔗 https://github.com/Ajaz3800/gitops-platform-repo
 
-🔹 Multi-tier App with GitHub Actions
-[https://github.com/Ajaz3800/multi-tier-app-github-action](https://github.com/Ajaz3800/multi-tier-app-github-action)
+---
 
-🔹 Multi-tier Infrastructure with Terraform
-[https://github.com/Ajaz3800/multi-tier-app-terraform](https://github.com/Ajaz3800/multi-tier-app-terraform)
+## 🔹 Secure DevSecOps CI/CD Pipeline
+CI/CD pipeline with SonarCloud, Trivy, SBOM generation, Cosign image signing, Harbor integration, and GitOps automation.
 
-🔹 Local Production Simulation Stack
-[https://github.com/Ajaz3800/Multi-tier-web-app-stack-local](https://github.com/Ajaz3800/Multi-tier-web-app-stack-local)
+🔗 https://github.com/Ajaz3800/devsecops-app
+
+---
+
+## 🔹 Kubernetes GitOps Deployment Repository
+Multi-environment Kubernetes GitOps deployment repository using ArgoCD, Kustomize, HPA, and Argo Rollouts.
+
+🔗 https://github.com/Ajaz3800/devsecops-gitops
+
+---
+
+## 🔹 Kyverno Zero to Production
+Production-focused Kyverno policy management and Kubernetes security implementation.
+
+🔗 https://github.com/Ajaz3800/kyverno-zero-to-production
+
+---
+
+## 🔹 Harbor Kubernetes Production Setup
+Production-ready Harbor deployment and secure container registry setup on Kubernetes.
+
+🔗 https://github.com/Ajaz3800/harbor-k8s-production
+
+---
+
+## 🔹 Vault Production Setup
+Vault deployment, secret management, and Kubernetes integration.
+
+🔗 https://github.com/Ajaz3800/vault-production-setup
+
+## 🔹 Ansible Wordpress Deployment
+🔗 https://github.com/Ajaz3800/ansible-wordpress-deployment.git
+
+## 🔹 Magento 2 Vagrant Debian 12 Stack
+🔗 https://github.com/Ajaz3800/magento2-vagrant-debian12-stack
+
+## 🔹 Multi-tier App with GitHub Actions
+🔗 https://github.com/Ajaz3800/multi-tier-app-github-action
+
+## 🔹 Multi-tier Infrastructure with Terraform
+🔗 https://github.com/Ajaz3800/multi-tier-app-terraform
+
+## 🔹 Local Production Simulation Stack
+🔗 https://github.com/Ajaz3800/Multi-tier-web-app-stack-local
 
 ---
 
